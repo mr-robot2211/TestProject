@@ -8,6 +8,7 @@ public class Testprg {
 	}
 	public static void main(String[] args) {
 		print("GIT PROJECT");
+		System.out.println("------update added--------");
 	}
 }
 
